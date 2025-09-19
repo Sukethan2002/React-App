@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-hello guys lets edit
-=======
+
+
+
 Now i changed your file
->>>>>>> 5131d59bef08a2e44843d277c321f86c9e9abf0b
+changed by suke
+
